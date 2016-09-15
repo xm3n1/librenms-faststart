@@ -5,12 +5,12 @@ How to install?
 ---
 Download by wget
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/joubertredrat/faststart/master/install.sh
+wget -O install.sh https://raw.githubusercontent.com/xm3n1/librenms-faststart/master/install.sh
 ```
 
 Or by curl
 ```bash
-curl -Lo install.sh https://raw.githubusercontent.com/joubertredrat/faststart/master/install.sh
+curl -Lo install.sh https://raw.githubusercontent.com/xm3n1/librenms-faststart/master/install.sh
 ```
 
 And run
